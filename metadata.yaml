@@ -1,0 +1,28 @@
+_repo: The-Campaign-of-Marengo-With-Comments_61320
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sargent, Herbert H. (Herbert Howland)
+    aliases:
+    - Sargent, H. H. (Herbert Howland)
+    - Sargent, Herbert Howland
+    birthdate: 1858
+    deathdate: 1921
+    gutenberg_agent_id: '51360'
+    url: http://www.gutenberg.org/2009/agents/51360
+description: ''
+gutenberg_issued: '2020-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61320'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Marengo, Battle of, Marengo, Italy, 1800'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Italy'
+- GITenberg
+title: The Campaign of Marengo, With Comments
+url: http://www.gutenberg.org/ebooks/61320
